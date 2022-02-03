@@ -5,3 +5,5 @@ readme de exemplo
 lembrei do comando: git status
 
 Lembrei do comando: git commit
+
+comando | historico
